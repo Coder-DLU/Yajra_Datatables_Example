@@ -202,6 +202,9 @@ Psy Shell v0.11.7 (PHP 8.1.6 — cli) by Justin Hileman
 
 >>>        
 ```
+Kiểm tra trong table user trên phpmyadmin
+
+![Container](a1.png)
 
 Tạo mới một Controller tên là UserController
 - app/Http/Controllers/UserController.php
